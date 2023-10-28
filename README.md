@@ -8,7 +8,6 @@ Briefly describe the purpose and goal of your project.
 List the key concepts, technologies, and skills you learned while working on this project.
 
 - **Image Processing:** Explored image processing techniques using the OpenCV and scikit-image libraries.
-- **Machine Learning:** Implemented a regression model using the scikit-learn library.
 - **Color Spaces:** Learned about color spaces, with a focus on the Lab color space.
 - **GitHub Collaboration:** Practiced version control and collaboration using Git and GitHub.
 
